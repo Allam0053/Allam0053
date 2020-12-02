@@ -1,4 +1,4 @@
-Account age: **3** years
+Account age: **{{ ACCOUNT_AGE }}** years
 
 Pushed **1553** commits
 
