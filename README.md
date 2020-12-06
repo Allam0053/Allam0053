@@ -3,11 +3,12 @@
 ## I'm Studying Computer Science at Institut Teknologi Sepuluh Nopember!!
 
 - 🌱 I’m currently learning everything 🤣
+- my plan is to use this account to track almost all of my learning progress. let's learn together
 
 
-### Spotify Playing 🎧 TWICE - More & More
+### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g)
+[<img src="https://en.wikipedia.org/wiki/More_%26_More_(EP)#/media/File:More_&_More_Twice_Digital_Cover_-_TikTok_Version.jpeg" alt="Allam Spotify Playing" width="350" />](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g)
 
 ### Connect with me:
 
