@@ -8,7 +8,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://github.com/Allam0053/Allam0053/blob/main/TWICE-More%26More.jpeg" alt="Allam Spotify Playing" width="150" />](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g)
+[<img src="pics/ForumApp.png" alt="Forum App" style="display: flex;" width="150" />](https://github.com/Allam0053/ForumApp)
+[<img src="pics/Penembak.png" alt="Penembak" style="display: flex;" width="150" />](https://github.com/widigdacahya/T-Rex_ucul/tree/main/FinalProject)
 
 ### Connect with me:
 
