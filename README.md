@@ -6,10 +6,10 @@
 - my plan is to use this account to track almost all of my learning progress. let's learn together
 
 
-### Spotify Playing 🎧
+### Projects
 
 [<img src="pics/ForumApp.png" alt="Forum App" style="display: flex;" width="150" />](https://github.com/Allam0053/ForumApp)
-[<img src="pics/Penembak.png" alt="Penembak" style="display: flex;" width="150" />](https://github.com/widigdacahya/T-Rex_ucul/tree/main/FinalProject)
+[<img src="pics/Penembak.png" alt="Penembak" style="display: flex;" width="400" />](https://github.com/widigdacahya/T-Rex_ucul/tree/main/FinalProject)
 
 ### Connect with me:
 
