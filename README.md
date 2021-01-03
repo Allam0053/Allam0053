@@ -8,7 +8,7 @@
 
 ### Projects
 
-[<img src="pics/Penembak.png" alt="Penembak" style="display: flex;" width="350" />](https://github.com/widigdacahya/T-Rex_ucul/tree/main/FinalProject)
+[<img src="pics/Penembak.png" alt="Penembak" style="display: flex;" />](https://github.com/widigdacahya/T-Rex_ucul/tree/main/FinalProject)
 [<img src="pics/ForumApp.png" alt="Forum App" style="display: flex;" width="150" />](https://github.com/Allam0053/ForumApp)
 
 ### Connect with me:
