@@ -6,7 +6,7 @@
 - my plan is to use this account to track almost all of my learning progress. let's learn together
 
 
-### <button>Projects</button>
+### Projects
 
 [<img src="pics/Penembak.png" alt="Penembak" style="display: flex;" />](https://github.com/widigdacahya/T-Rex_ucul/tree/main/FinalProject)
 [<img src="pics/ForumApp.png" alt="Forum App" style="display: flex;" />](https://github.com/Allam0053/ForumApp)
