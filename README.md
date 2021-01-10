@@ -10,6 +10,7 @@
 
 [<img src="pics/Penembak.png" alt="Penembak" style="display: flex;" />](https://github.com/widigdacahya/T-Rex_ucul/tree/main/FinalProject)
 [<img src="pics/ForumApp.png" alt="Forum App" style="display: flex;" />](https://github.com/Allam0053/ForumApp)
+[<img src="pics/SoftwareHouse.png" alt="Software House" style="display: flex;" />](https://github.com/Allam0053/tugas-wordpress1)
 
 ### Connect with me:
 
