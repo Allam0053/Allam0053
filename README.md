@@ -2,8 +2,7 @@
 
 ## I'm Studying Computer Science at Institut Teknologi Sepuluh Nopember!!
 
-- 🌱 I’m currently learning everything 🤣
-- my plan is to use this account to track almost all of my learning progress. let's learn together
+- Learn how magic works so it becomes magic no more
 
 
 ### Projects
@@ -30,3 +29,4 @@
 [youtube]: https://www.youtube.com/channel/UCHsFTl3vTgcssasrbSWOKlQ
 [instagram]: https://instagram.com/alt_rof
 [linkedin]: https://www.linkedin.com/in/allam-taju-sarof-34a2151b4/
+
