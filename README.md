@@ -2,8 +2,11 @@
 
 ## I'm Studying Computer Science at Institut Teknologi Sepuluh Nopember!!
 
-- Learn how magic works so it becomes magic no more
+Learn how magic works so it becomes magic no more
 
+- Currently involved on ifinger research in `Information Intelligent Management Laboratory`, Informatics
+- Learning `Nextjs`, `TypeScript`, `chakra-ui` as an intern
+- Learning `D3.js` cause I love displaying data
 
 ### Projects
 
